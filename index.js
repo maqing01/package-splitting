@@ -1,3 +1,3 @@
-const demo = require('services');
+const demo = require('demo02');
 
 demo.method()
